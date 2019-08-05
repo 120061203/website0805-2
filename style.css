@@ -1,0 +1,26 @@
+ul{
+    font-size: 0;
+
+}
+li{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    margin: 10px;
+
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+
+}
+.item19{
+    position: relative;
+    left: 120px;
+    background-color: rgb(255, 160, 35);
+}
+.item20{
+    position: relative;
+    left: -120px;
+}
